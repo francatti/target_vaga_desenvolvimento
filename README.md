@@ -27,5 +27,5 @@ f) Resposta: 20
 Na primeira ida ligamos um dos interruptores e deixamos ele ligado por alguns minutos antes de desligá-lo, permitindo que vejamos qual interruptor está associado à lâmpada que acenderá quando ele é acionado. Na segunda ida, após deligar esse primeiro interruptor, ligamos o segundo interruptor e então entramos na sala onde estão às lâmpadas para chegarmos à conclusão final. Caso a lâmpada estiver acesa, então o segundo interruptor que a ligou, se estiver apagada e a lâmpada estiver morna/quente ainda quer dizer que o primeiro interruptor controla essa lâmpada, agora se a lâmpada estiver apagada e fria, então o terceiro interruptor é o que a controla.
 
 # Questão 5 #
-Arquivo relacionado é o **InverterString.java**
+Arquivo relacionado é o **InverterString.java**.
 Basta rodá-lo na IDE de escolha e checar a saída no terminal.
